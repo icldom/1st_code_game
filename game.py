@@ -1,7 +1,7 @@
 print("Rock...")
 print("Paper...")
 print("Scissors...")
-rock = rockk
+
 Dominik = input ("Dominik, make your move: ").lower()
 print("***NO CHEATING !!!***\n" * 20)
 Viliam = input ("Viliam, make your move: ").lower()
